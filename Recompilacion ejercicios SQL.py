@@ -6,13 +6,11 @@ import numpy as np
 import pandas as pd
 import duckdb as dd
 #%% 
-#carpeta = "C:\\Users\\ASUS\\OneDrive\\Escritorio\\LaboDeDatos\\Guía Práctica - SQL - Archivos adjuntos-20250407\\"
-carpeta = "C:/Users/ASUS/OneDrive/Escritorio/LaboDeDatos/Clase 3/Guía Práctica - SQL - Archivos adjuntos-20250407//"
-casos = pd.read_csv(carpeta+"casos.csv")
-departamento = pd.read_csv(carpeta+"departamento.csv")
-grupoetario = pd.read_csv(carpeta+"grupoetario.csv")
-provincia = pd.read_csv(carpeta+"provincia.csv")
-tipoevento = pd.read_csv(carpeta+"tipoevento.csv")
+casos = pd.read_csv("casos.csv")
+departamento = pd.read_csv("departamento.csv")
+grupoetario = pd.read_csv("grupoetario.csv")
+provincia = pd.read_csv("provincia.csv")
+tipoevento = pd.read_csv("tipoevento.csv")
 #%% Segundo Set Ejercicios - Segundo punto
 """Devolver los casos registrados en la provincia de “Chaco”."""
 

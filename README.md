@@ -23,7 +23,29 @@ For each project, I've employed largely demanded technologies in the industry:
   * Version control: Git (hosted on GitHub)
 
 ## 3. Proyects
+This repository showcases a variety of data analysis and machine learning projects developed as part of the Laboratorio de Datos course at the University of Buenos Aires (UBA). The work spans the full data pipeline—from modeling and preprocessing to analysis and predictive modeling. Key highlights include:
 
+  * Relational and ER Modeling: Design and normalization of relational databases, including ER and relational models, and analysis of normalization forms.
+
+  * SQL Querying: Construction of advanced SQL queries to extract insights and validate database integrity.
+
+  * Data Quality Assessment: Evaluation of dataset completeness, consistency, and accuracy.
+
+  * Data Visualization: Creation of effective plots (scatter, line, bar, box, violin, etc.) for exploratory and explanatory data analysis using Python libraries.
+
+  * Custom Python Tools: Implementation of custom functions for filtering, transforming, and analyzing tabular data.
+
+  * Supervised Learning:
+
+    * Classification Models: Developed classifiers using K-Nearest Neighbors (KNN) and Decision Trees.
+
+    * Regression Models: Built predictive models using KNN, simple/multivariable linear regression, and quadratic regression.
+      
+   Additionally, techniques such as K-Fold cross-validation were incorporated to ensure robust model evaluation.
+
+  * Unsupervised Learning:
+
+  * Clustering: Applied algorithms such as K-Means, DBSCAN, and Hierarchical Clustering to uncover hidden patterns in the data.
 
 ## 4. Summary
 This repository reflects my commitment to professional growth and the practical application of my knowledge. Each project highlites key competencies in data analysis, collaboration and problem-solving.  
